@@ -4,7 +4,7 @@ date: "2019-05-04"
 description: Back post
 ---
 
-This is Saturday, 5-4-2019. Developing, coding, writing, thinking, fogetting to eat, running 5 monitors all with several web sessions running and 3 IDE's and often much more is a what any typical moment is like for me.
+This is Saturday, 5-4-2019. Developing, coding, writing, thinking, fogetting to eat, running 5 monitors all with several web sessions running and 3 IDE's(_are both my eyes pointing in the same direction still?_) and often much more is a what any typical moment is like for me.
 
 ## Test Driven Development (TDD)
 
