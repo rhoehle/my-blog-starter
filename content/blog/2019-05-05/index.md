@@ -13,5 +13,3 @@ I originally hoped I could get away with just a semester of college and taking t
 
 - How old is too old for school?
 - What does it say when you have to pause a moment to think about how old you are?
-
-Peronal document note: Each page is written then saved to a folder and the folders name is the title of the blog post, with title: date: description inside a file marked index.md inside this folder.

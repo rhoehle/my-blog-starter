@@ -38,12 +38,15 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Des
+              Written by <strong>{author}</strong> who lives and codes in Des
               Moines, Iowa.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow him on Twitter{` `}
               </a>
+              or
+              {` `}
+              <a href={`http://robertleehoehle.com`}>visit his website.</a>
             </p>
           </div>
         )
