@@ -38,8 +38,8 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and codes in Des
-              Moines, Iowa.
+              Blog developed by <strong>{author}</strong> with React & Gatsby.
+              Rob lives and codes in Des Moines, Iowa.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter{` `}
