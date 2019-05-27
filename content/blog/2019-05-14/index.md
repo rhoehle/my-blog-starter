@@ -15,3 +15,7 @@ The next 6 months are going to be a blur. I'll be studying constantly and workin
 It has been recommended I don't take the advanced C# class with my Java II in the Fall because they are "project based." Okay, so? I am considering adding advanced C# to my Fall workload, especially if this whole (seriously depressing and frustrating) work situation doesn't remedy itself.
 
 I'm getting frustrated with the cliques and in-crowd. I am not the most talkative of people when I don't know you. I say something when something is relevant and appropriate. I'm not real fond of large crowds. The IT atmosphere here seems only welcoming if you know the others in it. I am putting in the time and effort to integrate and getting no where. Hopefully with time this changes. If I wasn't a single father of 5 with full-custody, I would move, but that's just not in the cards right now. In the future that might change.
+
+##### Update
+
+One phone call just changed ... everything.  
