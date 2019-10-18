@@ -1,6 +1,6 @@
 ---
 title: New Wife, new job, new house, more schooling + baby otw = ARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGH!
-date: " 2019-10-17"
+date: "2019-10-17"
 description: Found my life
 ---
 
